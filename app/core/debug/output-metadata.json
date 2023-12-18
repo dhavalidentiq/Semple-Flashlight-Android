@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.simplemobiletools.flashlight.debug",
+  "variantName": "coreDebug",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 66,
+      "versionName": "5.10.1",
+      "outputFile": "flashlight-core-debug.apk"
+    }
+  ],
+  "elementType": "File"
+}
